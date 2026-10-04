@@ -23,7 +23,7 @@
 
 | 이름 | 활동 내용 |
 |---|---|
-| 박현준 | |
+| 홍길동 | |
 | 김철수 | |
 | 이영희 | |
 
@@ -41,9 +41,11 @@
 
 이번 주에 공부한 내용을 정리한 PDF 자료를 업로드해주세요.
 
+예시:
 
-- [`week01_summary.pdf`](https://app.notion.com/p/numpy-3eba6c5df51080869f5de719e8a7c5d5?source=copy_link)
-- [`week01_presentation.pdf`](https://app.notion.com/p/_1-_-_-9c9a6c5df5108385b361018170e91c7b?source=copy_link)
+- `week01_study.pdf`
+- `week01_summary.pdf`
+- `week01_presentation.pdf`
 
 ---
 
